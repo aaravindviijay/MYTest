@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<Uri> imageUris;
     private static final int IMAHE_PICK_CODE = 0;
     int newData = 0;
+    // hii two user
 
     int position = 0;
 
